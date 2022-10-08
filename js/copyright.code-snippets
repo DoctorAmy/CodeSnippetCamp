@@ -1,0 +1,10 @@
+{
+	"add a file copyright on the file header": {
+		"scope": "javascript,typescript",
+		"prefix": "cc",
+		"body": [
+    		"/* Copyright (C) 2022 Master. All Rights Reserved */"
+		],
+		"description": "file header copyright"
+	}
+}

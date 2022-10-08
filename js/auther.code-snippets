@@ -1,0 +1,10 @@
+{
+	"add auther to file": {
+		"scope": "javascript,typescript",
+		"prefix": "aa",
+		"body": [
+			"$BLOCK_COMMENT_START\n * $1\n * @auther Tom\n * @since $CURRENT_YEAR-$CURRENT_MONTH-$CURRENT_DATE\n $BLOCK_COMMENT_END"
+		],
+		"description": "add auther to file"
+	}
+}
